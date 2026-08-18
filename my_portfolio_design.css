@@ -1,0 +1,48 @@
+body {
+    background-image:"(my_image.jpeg)" ;
+    background-color: rgb(233, 231, 204);
+    font-family: Arial;
+    margin: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color: darkblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li {
+    font-size: 18px;
+    margin: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table {
+    background-color: white;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th {
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+td {
+    padding: 10px;
+
+}
+hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
